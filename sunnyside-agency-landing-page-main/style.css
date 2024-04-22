@@ -12,11 +12,11 @@
   padding:0px;
   box-sizing: border-box;
   margin: 0px;
+  font-family: 'Barlow' ;
   font-size: 18px;
 }
 body{
   color: black;
-  font-family: 'Barlow' ;
   font-size: 1.2rem;
   margin-top: 0px;
 
