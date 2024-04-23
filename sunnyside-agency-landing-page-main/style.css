@@ -337,6 +337,7 @@ body{
 .Client_testimonials-h3{
   font-size: 2rem;
   margin-bottom: 5vh;
+  text-transform: capitalize;
   font-family: 'Fraunces' ;
   font-weight: 700;
   letter-spacing: 0.5vh;
